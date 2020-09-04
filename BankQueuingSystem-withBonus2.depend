@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577673518 source:d:\drive\intake 40 telecom track_\data structure_\telecome application projects_\nesreenkhalidiot-mahmoudabdelhakimtele\bankqueuingsystem-withbonus2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Goto.c"
+
+1572120678 d:\drive\intake 40 telecom track_\data structure_\telecome application projects_\nesreenkhalidiot-mahmoudabdelhakimtele\bankqueuingsystem-withbonus2\goto.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
